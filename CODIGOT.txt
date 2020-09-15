@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<LINK REL=StyleSheet HREF="Estilos.css" TYPE="text/css">
+<title>Mitos y leyendas de Silao</title>
+</head>
+<body background="E:\Notepad++Portable\fondo.jpg"><font color="white">
+  <head><h1><center>нιѕтσяιαѕ, мιтσѕ ч lεчεиdαѕ εи ѕιlασ</center>
+  </h1></head>
+  
+  <div class="barras" style="float:left;">
+  	<font color="black">
+    <h3 class="ba"><center>Mas...</center><h3>
+      <ul class="enlaces">
+   
+        <li><a href="#">ɪɴɪᴄɪᴏ<a/></li>
+     <br>
+        <li><a href="#">ᴀᴜᴅɪᴏᴄᴜᴇɴᴛᴏꜱ<a/></li>
+          <br>
+        <li><a href="#">ꜱᴀʙᴇʀ ᴍᴀꜱ...<a/></li>
+        
+       </ul>
+      </font>
+  	</div>
+  <div class="historias" style="float:rigth;">
+    <h2 class="intro"><font><center>ＢＩＥＮＶＥＮＩＤＯ</center></font></h2>
+    <p style="text-align:justify;"class="texto1">Dentro de esta aplicación encontraras las auténticas historias y leyendas originarias de la ciudad de Silao en todo su esplendor ya que para poder traer hasta ti todas estas historias se ha entrevistado a la población, en especial a los mayores de edad ya que son personas con más experiencias vividas, esperamos que el contenido de la aplicación sea de tu agrado.
+</p>
+  	</div>
+    </font>
+		<img src="sangre-goteando-gif-1.gif" height="200px" width="990px">
+		<div class="cerro">
+			<h2>
+				<font color="#E32121;">EL CERRITO DE LA CRUZ</font>
+			</h2>
+			<p style="text-align:justify;" align="left" class="texto1">
+			<font color="white">
+				<img src="Cr.jpeg" align="left" height="250px" width="300px" >Los abuelos  comentaban que los primeros franciscanos colocaban las cruces en las zonas donde evanjelizaban e inducian a la religion catolica a nuestros antepasados. En el caso de los Chichimecas que habitaron esta región de Silao comentaban que la colocaron aqui en lo que conocemos como el Cerrito de la cruz donde ya solo quedaba el monolito sin la cruz. El año pasado llegaron los organizadores del rally y destruyeron mas de 450 años de historia.
+				El presidente del comisariado ejidal y un grupo de ejidatarios comentan que no se les ha tomado en cuenta para nada en este año.
+				Siendo que es una autoridad federal que fue electo. Comenta que es una falta de respeto ya que usan terrenos del ejido de Chichimequillas principalmente el cerrito de la cruz donde nunca autorizaron derrumbar la base de la cruz.
+			</p>
+		</div>
+		<br
+		<div class="cerro">
+			<h2>
+				<font color="#E32121;">EL CERRO DE LA NIÑA ENCANTADA</font>
+			</h2>
+			<p style="text-align:justify;" class="texto1">
+			<font color="white">
+				<img src="Cn.jpeg" align="left" height="350px" width="400px" >Cuentan que dentro de la cueva que se encuentra en el cerro de la mesa, vive dentro una niña que está encantada convertida en serpiente.
+
+Quien logre llevarla cargada al templo de la comunidad de Chichimequillas, le quitara e encanto y se convertirá en esa hermosa doncella, le entregara todos los tesoros que hay dentro de la cueva.
+
+Aquel hombre que la lleve escuchara ruidos escalofriantes estruendosos que lo intentaran hacer voltear para atrás, si llega a voltear se convertirá en piedra y en ese instante la serpiente regresa a la cueva hasta que otro hombre la intente llevarla.
+
+Hasta el momento nadie ha logrado este pedido.<BR>
+
+
+
+Mito o realidad… eso es lo que la gente cuenta, varios hombres se han topado con la serpiente, pero no se atreven a llevarla por el miedo a fracasar. (en realidad tienen miedo al éxito). 
+<BR>
+
+
+La cueva se abre dos veces al año jueves santo y el jueves de la asunción, día que se realizan las fiestas del santo patrono de la comunidad.
+<BR>
+
+
+La gente grande dice que en realidad los tesoros que se encuentran dentro de la cueva y que dará la niña encantada, no son dinero, joyas o metales preciosos, en realidad son los valores, para lograr ser felices y vivir en plenitud…ahí está la alegría, la felicidad, la armonía el compañerismo, el perdón, el amor a nuestros semejante etc. 
+
+Eso es lo que nos quiere dar la niña convertida en serpiente en la cueva encantada.
+
+Y solo cuando logremos manejar nuestros miedos, sin tener miedo al fracaso. Lograremos el éxito y seremos merecedores de recibir los tesoros mencionados.
+
+
+<BR>
+Mira Omar: En la versión que recuerdo de la revista, decía que el dueño de la hacienda, no le permitió a su hija que se enamorara de cierto hombre pobre y ella opto por escaparse y perderse en el cerro.
+
+El padre al ver la desobediencia de su hija le envió un conjuro que la convirtió en serpiente.
+
+No recuerdo si ella se enamora de un joven pobre o de un toro, total que al padre no le pareció el enamoramiento de su hija. y la mando a matar al cerro y el verdugo lanzo el conjuro y la dejo libre convertida en serpiente.
+<BR>
+
+
+Nota: si la leyenda habla del tiempo de las haciendas esta pudo surgir por los años de1550-l600 aprox, cuando se comenzaron a construir las haciendas con el descubrimiento de las minas de plata, en Guanajuato.
+
+<BR>
+
+Si bien la historia es un poco parecida a la del cerro de la bufa, me comentan que este tipo de historias es común en lugares donde se encuentran cuevas.
+
+
+			</p>
+		</div>
+      </body>
+</html>
+--------------------------------------------------------------------------------------------------------------------------
+CSS
+
+
+body {
+	 border:30px solid #2F2F27;
+  	 background:#2F2F27;
+	 
+}
+h1 {
+	 border-top:5px solid #3CBB36;
+     border-bottom:5px solid #FC3434;
+  	 
+}
+.barras {
+	background: #565656;
+    height:700px;
+    width:220px;
+    border:15px solid #2F2F27; 
+}
+.intro {
+    border-bottom: #909090 4px double;
+    color:#E32121;
+}
+p {
+	border:5px solid #2F2F27;
+  	border-bottom:#909090 4px double;
+}
+.ba {
+	border-bottom:2px solid white;
+}
+.enlaces li a {
+	font-size:20px;
+    text-decoration: none;
+    color: #F4F95C;
+}
+.texto1 {
+	font-size:20px;
+}
+
+h2 {
+	border-top: #909090 4px double;
+	border-bottom: #909090 4px double;
+	color:#E32121;
+}
+img {
+	border:solid 5px #2F2F27;
+}
+
+
